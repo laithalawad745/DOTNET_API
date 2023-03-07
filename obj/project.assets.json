@@ -3974,26 +3974,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AHMED\\.nuget\\packages\\": {}
+    "C:\\Users\\Laith\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\ZEPE.csproj",
+      "projectUniqueName": "c:\\Users\\Laith\\Documents\\GitHub\\DOTNET_API\\ZEPE.csproj",
       "projectName": "ZEPE",
-      "projectPath": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\ZEPE.csproj",
-      "packagesPath": "C:\\Users\\AHMED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMED\\source\\repos\\C#\\Learn\\API\\ZEPE\\obj\\",
+      "projectPath": "c:\\Users\\Laith\\Documents\\GitHub\\DOTNET_API\\ZEPE.csproj",
+      "packagesPath": "C:\\Users\\Laith\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Laith\\Documents\\GitHub\\DOTNET_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AHMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Laith\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
